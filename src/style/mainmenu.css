@@ -1,0 +1,44 @@
+html{
+    background-size: cover;
+    background-image: url(../pictures/backgroundmain.jpg);
+}
+.allnavbar{
+    margin-bottom: 5%;
+    width: 209px;
+    height: 79px;
+    border-style: groove;
+    opacity: 91%;
+    background-color: black;
+    box-shadow: 5px 3px 16px red;
+}
+
+button{
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 70%;
+}
+h1{
+    width: 30%;
+    color: whitesmoke;
+}
+.imgcharacters{
+    margin-top: -80px;
+    width: 40%;
+    height: 79px;
+    float: right;
+}
+
+@media screen and (min-width : 767px){
+    .navbar1{
+        margin-left: 10%;
+    }
+    
+    .navbar2{
+        margin-left: 20%;
+    }
+    
+    .navbar3{
+        margin-left: 30%;
+    }
+}

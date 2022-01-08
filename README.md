@@ -1,1 +1,1 @@
-# wild-project
+//my first apply react for training 

@@ -1,0 +1,12 @@
+.h1container{
+    margin: 0;
+    width: 100%;
+    opacity: 60%;
+    box-shadow: 10px 10px 19px red;
+    color: red;
+    background-color: darkred;
+}
+.h1notfound{
+    margin: 0;
+    color: white;
+}
